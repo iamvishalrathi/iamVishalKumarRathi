@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajatrathi029
+- 👋 Hi, I’m @iamVishalKumarRathi
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... DSA and Web Dev
 - 💞️ I’m looking to collaborate on ... Open Source and Internships
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Rajatrathi029/Rajatrathi029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iamVishalKumarRathi/iamVishalKumarRathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
