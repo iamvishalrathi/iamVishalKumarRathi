@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamVishalKumarRathi
+- 👋 Hi, I’m @iamvishalrathi
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... DSA and Web Dev
 - 💞️ I’m looking to collaborate on ... Open Source and Internships
